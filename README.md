@@ -16,6 +16,9 @@
 - [x] Walkthrough:
 <img src="https://media.giphy.com/media/ew8e6FaD3n9sBuCUYv/giphy.gif" />
 
+- [x] Steps to Recreate:
+  -While logged in, upload a new media post, and as the description, a script can be placed that will be run when someone visits the page containing the media.
+
 
 ## Resources
 
